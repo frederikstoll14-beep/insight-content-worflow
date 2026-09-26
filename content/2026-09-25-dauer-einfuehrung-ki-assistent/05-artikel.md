@@ -24,7 +24,7 @@ Die Angaben gehen so weit auseinander, weil jede Quelle etwas anderes mit „Ein
 |---|---|---|
 | innogpt.de | 7 Tage Testphase, danach 4 Wochen Nutzung beobachten <!-- F9 --> | Standard-Assistenten ohne Anbindung an Ihre Unternehmensdaten <!-- F9 --> |
 | hr-werkstatt.de | 4–8 Wochen Bewertung, 4–12 Wochen für einen klar definierten Anwendungsfall, 6 Monate bis 2 Jahre gesamt <!-- F7 --> | vom ersten Anwendungsfall bis zur Umstellung des ganzen Unternehmens |
-| skill-sprinters.de | 4–8 Wochen Vorbereitung, danach 12–24 Monate Projektphase, erste Ergebnisse nach 8–12 Wochen <!-- F8 --> | umfassendes KI-Programm mit mehreren Phasen |
+| skill-sprinters.de | 4–8 Wochen Vorbereitung, danach 12–24 Monate Projektphase, erste Ergebnisse innerhalb von 8–12 Wochen <!-- F8 --> | umfassendes KI-Programm mit mehreren Phasen |
 | kigen-it.de | Pilotgruppe in Woche 1–6 <!-- F5 --> | Einführung von Microsoft 365 Copilot bei den Mitarbeitenden |
 | snutig.de | Aufwand für einen komplexen Assistenten das 3- bis 5-Fache eines einfachen FAQ-Bots <!-- F10 --> | Unterschied zwischen 20 Standardfragen und 500 Fachfragen <!-- F10 --> |
 
