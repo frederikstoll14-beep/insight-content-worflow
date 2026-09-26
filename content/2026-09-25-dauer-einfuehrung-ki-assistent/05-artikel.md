@@ -52,7 +52,7 @@ Intern bereiten Sie vor allem Entscheidungen und Zuständigkeiten vor, keine Tec
 2. **Pro Datenquelle eine verantwortliche Person benennen.** Sie weiß, welche Inhalte aktuell sind, und kann Zugänge freigeben.
 3. **NDA und AVV unterschreiben.** Ohne beide Verträge beginnt keine Anbindung. <!-- K4 -->
 4. **Festlegen, wer was sehen darf.** Wer ein Dokument im Quellsystem nicht öffnen darf, soll es auch über den Assistenten nicht sehen.
-5. **IT-Sicherheit, Datenschutz und IT früh einbinden.**
+5. **IT-Sicherheit und Datenschutz früh einbinden.**
 6. **Eine Pilotgruppe mit fester Zeit für Rückmeldungen einplanen.**
 7. **Eine Messgröße festlegen.** Zum Beispiel, wie viele Supportanfragen der Assistent nach drei Monaten ohne Rückfrage beantwortet.
 
@@ -60,7 +60,7 @@ Intern bereiten Sie vor allem Entscheidungen und Zuständigkeiten vor, keine Tec
 
 ## Warum ist ein Assistent nach dem Start noch nicht eingeführt?
 
-Ein technisch fertiger Assistent ist noch kein genutzter Assistent. Eine Statistik-Auswertung zu Microsoft Copilot deutet darauf hin: 79 % der befragten Unternehmen haben Copilot ausgerollt, aber nur 35,8 % der lizenzierten Mitarbeitenden nutzen es aktiv. Die Zahlen stammen aus einem Blog, nicht von Microsoft. <!-- F4 -->
+Ein technisch fertiger Assistent ist noch kein genutzter Assistent. Eine Statistik-Auswertung zu Microsoft Copilot deutet auf eine Lücke hin. 79 % der befragten Unternehmen haben Copilot ausgerollt, aber nur 35,8 % der lizenzierten Mitarbeitenden nutzen es aktiv. Die Zahlen stammen aus einem Blog, nicht von Microsoft. <!-- F4 -->
 
 Ein Schulungsanbieter geht noch weiter. Nach seiner Angabe erreicht reine Lizenzverteilung nach sechs Monaten rund 20 % aktive Nutzer, ein mehrwöchiges Training mit Pilotgruppe über 70 %. Eine Datenquelle nennt er nicht. <!-- F6 -->
 
@@ -87,7 +87,7 @@ Bei der Softengine Gruppe durchsucht der Assistent enGPT über 15.000 Dokumente,
 ## Häufige Fragen
 
 **Was ist der häufigste Fehler bei der Einführung?**
-Zwei Fehler werden besonders oft genannt: eine fehlende Strategie und ein zu breiter Umfang. Mehrere Fachartikel sehen in einem der beiden oder in beiden den Hauptgrund fürs Scheitern, nicht in der Technik. <!-- F12 --> Ein Anwendungsfall mit einer Datenquelle ist der sicherere Start.
+Am häufigsten genannt werden eine fehlende Strategie und ein zu breiter Umfang. Mehrere Fachartikel sehen in einem der beiden oder in beiden den Hauptgrund fürs Scheitern, nicht in der Technik. <!-- F12 --> Ein Anwendungsfall mit einer Datenquelle ist der sicherere Start.
 
 **Mit wie vielen Datenquellen sollten wir anfangen?**
 Mit einer. Jede Quelle ist eine eigene Pipeline mit eigenem Aufwand. <!-- K2 --> Weitere Quellen lassen sich an dieselbe Wissensbasis anschließen, wenn der erste Anwendungsfall trägt.
