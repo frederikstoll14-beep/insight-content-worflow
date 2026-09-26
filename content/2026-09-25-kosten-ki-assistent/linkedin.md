@@ -8,7 +8,7 @@ Quelle: `05-artikel.md` · Faktencheck: FREIGABEFÄHIG (Runde 2)
 
 Bei der Softengine Gruppe ist unser Assistent enGPT seit 1,5 Jahren produktiv. Er durchsucht über 15.000 Dokumente, täglich aktualisiert, und beantwortet Fragen mit Quellenangaben.
 
-Ein Beispiel wie dieses zeigt, worum es bei den Kosten wirklich geht: nicht in erster Linie um das Sprachmodell, sondern um die Datenquellen dahinter.
+Ein Beispiel wie dieses zeigt, worum es bei den Kosten vor allem geht: um die Datenquellen dahinter, weniger um das Sprachmodell.
 
 Ein typisches erstes Projekt für einen solchen Assistenten kostet einmalig 15.000 bis 25.000 €. Sobald mehr als eine Datenquelle angebunden wird, entfällt der größere Teil davon auf die Daten, nicht auf die technische Basis.
 
@@ -16,7 +16,7 @@ Jede Quelle, ob Wiki, Ticketsystem oder PDF-Handbücher, braucht eine eigene Pip
 
 [OFFEN: Erfahrung von Thomas, was sich bei Softengine im Alltag am stärksten verändert hat]
 
-Wer über einen eigenen Assistenten nachdenkt, sollte zuerst zählen, wie viele Datenquellen wirklich dazugehören.
+Wer über einen eigenen Assistenten nachdenkt, sollte zuerst zählen, wie viele Datenquellen dazugehören.
 
 Wie viele Datenquellen müssten Sie für Ihr Firmenwissen anbinden?
 
@@ -42,7 +42,7 @@ Teurer wird es an anderer Stelle. Die Dokumentensuche läuft im üblichen Modell
 
 Und einmalig fällt der größte Teil dort an, wo es am wenigsten glamourös ist: beim Anbinden und Aufbereiten der eigenen Daten. Ab der zweiten Datenquelle ist das der größere Teil des Budgets, nicht die KI-Infrastruktur.
 
-Wer die Kosten eines KI-Assistenten plant, sollte deshalb zuerst zählen, wie viele Datenquellen es wirklich sind, nicht welches Sprachmodell er nutzt.
+Wer die Kosten eines KI-Assistenten plant, zählt deshalb zuerst die Datenquellen, nicht das Sprachmodell.
 
 Welchen Kostenpunkt hätten Sie bei einem KI-Assistenten zuerst vermutet?
 
@@ -95,6 +95,33 @@ Der Artikel enthält einen Kosten-Ablauf (Infrastruktur → Pipeline → laufend
 3. Baustein 1 – Technische Basis: Modellzugang, Wissensbasis, Rechtemodell. 4.000 bis 10.000 €.
 4. Baustein 2 – Datenquellen: jede Quelle braucht eine eigene Pipeline. 5.000 bis 8.000 € pro Quelle.
 5. Oberfläche: 0 € Projektkosten, wenn Ihr Team sie mit Copilot Studio selbst baut.
-6. Laufend: Sprachmodell nach Verbrauch, Dokumentensuche pro Stunde – auch ohne Nutzung.
+6. Laufend: Sprachmodell nach Verbrauch, Dokumentensuche pro Stunde, auch ohne Nutzung.
 7. Betreuung optional ab 2.000 € im Monat, lässt sich herunterfahren.
 8. Beispiel Wiki + Ticketsystem: 21.000 € einmalig, zzgl. USt. Details im Artikel.
+
+---
+
+## Stilprüfung (Profil `linkedin`)
+
+Geprüft: die drei Beiträge (A, B, C), die jeweiligen ersten Kommentare, der Karussell-Abschnitt. „Wann"/„Für wen" waren nicht Teil des Auftrags und wurden nicht verändert.
+
+### Befunde
+
+1. **Formelhafte Wiederholung des Schlusssatzes über zwei Beiträge hinweg** (klar). Beitrag A: „Wer über einen eigenen Assistenten nachdenkt, sollte zuerst zählen, wie viele Datenquellen wirklich dazugehören." Beitrag B: „Wer die Kosten eines KI-Assistenten plant, sollte deshalb zuerst zählen, wie viele Datenquellen es wirklich sind, nicht welches Sprachmodell er nutzt." Fast derselbe Satzbau, dieselbe Kernformel, zweimal ausgespielt. Wirkt wie eine Vorlage, die zweimal befüllt wurde, statt zwei eigenständige Beiträge.
+2. **„Nicht X, sondern Y"-Kontrast überstrapaziert** (klar, Ermessen bei Einzelfällen). Die Gegenüberstellung „nicht das Sprachmodell, sondern die Daten" taucht in vier Varianten auf: Beitrag A „nicht in erster Linie um das Sprachmodell, sondern um die Datenquellen dahinter" und „nicht auf die technische Basis"; Beitrag B „nicht die KI-Infrastruktur" und „nicht welches Sprachmodell er nutzt". Ein rhetorisches Mittel, viermal in zwei kurzen Texten, liest sich mechanisch.
+3. **Füllwort „wirklich" als Verstärker, dreifach eingesetzt** (Ermessen). „worum es bei den Kosten wirklich geht" (A), „wie viele Datenquellen wirklich dazugehören" (A), „wie viele Datenquellen es wirklich sind" (B). Trägt inhaltlich nichts bei, siehe `deutsche-ki-muster.md`, Intensivierer ohne Aussagekraft.
+4. **Gedankenstrich als Punktersatz in Folie 6** (klar). „Dokumentensuche pro Stunde – auch ohne Nutzung." Laut `deutsche-ki-muster.md`: Gedankenstrich nie als Ersatz für einen Punkt.
+5. Alles Weitere ist unauffällig: keine Floskeln aus `deutsche-ki-muster.md` (kein „in der heutigen Welt", kein „spielt eine Rolle", kein „nahtlos/ganzheitlich" etc.), keine Stufe-2-Wörter gehäuft, Hashtags bei 2–3 pro Beitrag, keine Em-Dash-Häufung, keine Bullet-Listen aus bloßen Nominalphrasen, konkrete Zahlen statt Adjektive durchgehend vorhanden.
+
+### Änderungen
+
+- Beitrag A, Post: „nicht in erster Linie um das Sprachmodell, sondern um die Datenquellen dahinter" → „vor allem … um die Datenquellen dahinter, weniger um das Sprachmodell" (Kontrastform variiert, „wirklich" gestrichen).
+- Beitrag A, Post: „wie viele Datenquellen wirklich dazugehören" → „wie viele Datenquellen dazugehören" („wirklich" gestrichen).
+- Beitrag B, Post: „sollte deshalb zuerst zählen, wie viele Datenquellen es wirklich sind, nicht welches Sprachmodell er nutzt" → „zählt deshalb zuerst die Datenquellen, nicht das Sprachmodell" (kürzer, aktiv, nicht mehr fast wortgleich mit Beitrag A, „wirklich" gestrichen).
+- Karussell, Folie 6: Gedankenstrich durch Komma ersetzt.
+
+Keine Fakten, Zahlen, Termine, Zielgruppen oder `[OFFEN: …]`-Stellen wurden verändert.
+
+### Zweiter Durchgang
+
+Beide Beiträge erneut gelesen: Der Kontrast „Daten statt Sprachmodell" bleibt einmal pro Beitrag als tragendes Argument stehen (Beitrag A positiv-vergleichend, Beitrag B negierend) – das ist inhaltlich richtig und liest sich nicht mehr wie eine Schablone. Schlusssätze der beiden Beiträge sind jetzt unterschiedlich formuliert und unterschiedlich lang. Rhythmus über alle drei Beiträge: Satzlängen schwanken bewusst zwischen 4 und 21 Wörtern, keine neue Gleichförmigkeit durch die Kürzungen entstanden. Durchschnittliche Satzlänge in den drei Beiträgen liegt weiterhin bei etwa 14–16 Wörtern, keine Sätze über 25 Wörtern vorhanden, daher keine weiteren Trennungen nötig.
