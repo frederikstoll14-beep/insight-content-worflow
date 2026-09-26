@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350" font-family="Inter, Arial, sans-serif">
+  <rect width="1080" height="1350" fill="#FFFFFF"/>
+
+  <!-- Kopfzeile -->
+  <text x="60" y="90" font-size="28" font-weight="700" fill="#0F766E">Insight AI</text>
+  <text x="1020" y="90" font-size="24" fill="#6B7280" text-anchor="end">3 / 8</text>
+  <path d="M60 130 H1020" stroke="#E5E7EB" stroke-width="2"/>
+
+  <!-- Fusszeile -->
+  <path d="M60 1260 H1020" stroke="#E5E7EB" stroke-width="2"/>
+  <text x="60" y="1306" font-size="22" fill="#6B7280">Baustein 1: Technische Basis</text>
+  <text x="1020" y="1306" font-size="22" fill="#6B7280" text-anchor="end">insightai.co</text>
+
+  <text x="60" y="300" font-size="34" font-weight="700" fill="#1F2937">Baustein 1 &#8211; Technische Basis</text>
+  <rect x="60" y="360" width="140" height="8" fill="#0F766E"/>
+<text x="60" y="460" font-size="38" font-weight="400" fill="#1F2937" text-anchor="start">Modellzugang,</text>
+  <text x="60" y="512" font-size="38" font-weight="400" fill="#1F2937" text-anchor="start">Wissensbasis,</text>
+  <text x="60" y="564" font-size="38" font-weight="400" fill="#1F2937" text-anchor="start">Rechtemodell.</text>
+  <text x="60" y="700" font-size="80" font-weight="700" fill="#0F766E">4.000 &#8211; 10.000 &#8364;</text>
+</svg>
