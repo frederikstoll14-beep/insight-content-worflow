@@ -1,85 +1,100 @@
 # LinkedIn zu: Was kostet ein eigener KI-Assistent für Firmenwissen?
 
-Quelle: `05-artikel.md` · Faktencheck: FREIGABEFÄHIG (Runde 2) · Stilprüfung: Profil `linkedin`, siehe unten
+Quelle: `05-artikel.md` · Faktencheck: FREIGABEFÄHIG (Runde 2)
 
 ---
 
 ## Beitrag A · Erfahrung
 
-Wir veröffentlichen unsere Preise auf der Website. Das ist im KI-Projektgeschäft eher unüblich.
+Bei der Softengine Gruppe ist unser Assistent enGPT seit 1,5 Jahren produktiv. Er durchsucht über 15.000 Dokumente, täglich aktualisiert, und beantwortet Fragen mit Quellenangaben.
 
-Der Grund ist einfach. Fast jedes Erstgespräch mit einem Mittelständler beginnt mit derselben Frage: Was kostet das? [OFFEN: stimmt diese Beobachtung so, Thomas?]
+Ein Beispiel wie dieses zeigt, worum es bei den Kosten wirklich geht: nicht in erster Linie um das Sprachmodell, sondern um die Datenquellen dahinter.
 
-Die ehrliche Antwort hat zwei Teile.
+Ein typisches erstes Projekt für einen solchen Assistenten kostet einmalig 15.000 bis 25.000 €. Sobald mehr als eine Datenquelle angebunden wird, entfällt der größere Teil davon auf die Daten, nicht auf die technische Basis.
 
-Einmalig liegt ein typisches erstes Projekt bei 15.000 bis 25.000 €. Davon entfällt ein Teil auf die technische Basis in Ihrer Azure-Umgebung, also Modellzugang, Wissensbasis und Rechtemodell. Der andere Teil entfällt auf die Anbindung Ihrer Datenquellen. Jede Quelle, ob Wiki, Ticketsystem oder Handbücher, ist ein eigener Baustein.
+Jede Quelle, ob Wiki, Ticketsystem oder PDF-Handbücher, braucht eine eigene Pipeline: bereinigen, in Abschnitte teilen, Metadaten ergänzen, täglich aktualisieren. Dafür kalkulieren wir 5.000 bis 8.000 € pro Quelle.
 
-Laufend zahlen Sie den Verbrauch direkt an Microsoft und optional eine Betreuung.
+[OFFEN: Erfahrung von Thomas, was sich bei Softengine im Alltag am stärksten verändert hat]
 
-Was ich dabei gelernt habe: [OFFEN: ein Satz aus eigener Erfahrung, z. B. welcher Kostenpunkt Kunden am meisten überrascht]
+Wer über einen eigenen Assistenten nachdenkt, sollte zuerst zählen, wie viele Datenquellen wirklich dazugehören.
 
-Die ganze Rechnung mit Beispiel steht im Artikel, Link im ersten Kommentar.
+Wie viele Datenquellen müssten Sie für Ihr Firmenwissen anbinden?
 
-Welche Datenquelle würden Sie als Erstes anbinden?
+#KünstlicheIntelligenz #Mittelstand #Azure
 
-**Erster Kommentar:** Hier die komplette Aufschlüsselung mit Rechenbeispiel (Wiki + Ticketsystem = 21.000 € einmalig): <Link zum Artikel>
-**Wann:** Dienstag, 8:00 Uhr
-**Für wen:** Geschäftsführungen im Mittelstand, die KI-Budget für 2027 planen · IT-Leitungen mit Microsoft-365-Umgebung
-**Wie erreichen:** In den Tagen davor unter Beiträgen von Mittelstandsverbänden und regionalen IHK-Digitalgruppen zu KI-Budgets fachlich kommentieren. Direktnachricht nur an bestehende Kontakte, die das Thema kürzlich selbst angesprochen haben.
+**Erster Kommentar:** Die ganze Rechnung mit Beispiel und Grafik steht hier: <Link zum Artikel>
+
+**Wann:** Dienstag, 29.09.2026, 8:00 Uhr
+**Für wen:**
+- Geschäftsführung im Mittelstand, die ein reales Beispiel statt einer Werbeaussage sehen will → Beitrag direkt teilen, kein Kommentar nötig
+- IT-Leitung mit Microsoft-365-Umgebung, die nach Referenzen für ähnliche Projekte sucht → unter eigenen Beiträgen zu internem Wissensmanagement fachlich kommentieren
+- Support-Leitung, die Wissen aus Ticketsystem und Wiki bündeln will (enGPT ist ein Support-nahes Beispiel) → in Fachgruppen zu Kundenservice/Support-Tools sachlich verlinken, wenn erlaubt
 
 ---
 
 ## Beitrag B · Klartext
 
-„KI ist teuer, weil die Modelle so viel kosten."
+„KI kostet vor allem, weil die Sprachmodelle so teuer sind." Diese Annahme begegnet mir oft. [OFFEN: Bestätigung durch Thomas, wie häufig er das in Erstgesprächen hört] Für einen internen Wissensassistenten stimmt sie meist nicht.
 
-Für einen internen Wissensassistenten stimmt das meistens nicht. [OFFEN: Erfahrungswert von Thomas zur Größenordnung der Modellkosten, sonst diese Zeile streichen]
+Das Sprachmodell wird bei Azure OpenAI nach Verbrauch abgerechnet, pro verarbeitetem Textstück, getrennt nach Frage und Antwort. Wer wenig fragt, zahlt wenig.
 
-Das Sprachmodell wird bei Azure nach Verbrauch abgerechnet, pro verarbeitetem Text. Wer wenig fragt, zahlt wenig.
+Teurer wird es an anderer Stelle. Die Dokumentensuche läuft im üblichen Modell auf reservierter Kapazität und kostet pro Stunde, egal ob jemand fragt oder nicht. Dieser Posten läuft auch am Wochenende weiter und lässt sich nur beenden, indem man den Suchdienst löscht.
 
-Anders ist es bei der Suche über Ihre Dokumente. Sie läuft im üblichen Modell auf reservierter Kapazität und kostet pro Stunde, auch nachts und am Wochenende. Wer diesen Posten nicht einplant, erlebt eine Überraschung auf der ersten Rechnung.
+Und einmalig fällt der größte Teil dort an, wo es am wenigsten glamourös ist: beim Anbinden und Aufbereiten der eigenen Daten. Ab der zweiten Datenquelle ist das der größere Teil des Budgets, nicht die KI-Infrastruktur.
 
-Und einmalig fällt am meisten dort an, wo es am wenigsten glamourös ist: beim Anbinden und Aufbereiten der eigenen Daten. Sobald mehr als eine Quelle dazukommt, ist das der größere Teil des Budgets.
+Wer die Kosten eines KI-Assistenten plant, sollte deshalb zuerst zählen, wie viele Datenquellen es wirklich sind, nicht welches Sprachmodell er nutzt.
 
-Wer KI-Kosten plant, sollte deshalb zuerst zählen, wie viele Datenquellen es wirklich sind.
+Welchen Kostenpunkt hätten Sie bei einem KI-Assistenten zuerst vermutet?
 
-**Erster Kommentar:** Rechenbeispiel und alle Kostenposten im Artikel: <Link>
-**Wann:** Mittwoch der Folgewoche, 12:00 Uhr
-**Für wen:** IT-Leitungen und Controlling, die Azure-Rechnungen verantworten
-**Wie erreichen:** Beitrag in relevanten LinkedIn-Gruppen zu Microsoft Azure im DACH-Raum nur verlinken, wenn die Gruppenregeln das erlauben. Unter Beiträgen zu „Copilot Kosten" sachlich auf den Unterschied zwischen Lizenz- und Verbrauchskosten hinweisen.
+#KünstlicheIntelligenz #Azure #Mittelstand
+
+**Erster Kommentar:** Rechenbeispiel und alle Kostenposten im Detail: <Link zum Artikel>
+
+**Wann:** Mittwoch, 07.10.2026, 8:00 Uhr
+**Für wen:**
+- IT-Leitung, die Azure-Rechnungen verantwortet und die Kostenstruktur verstehen muss → unter Beiträgen zu Azure-Kosten oder Copilot-Lizenzierung sachlich auf den Unterschied zwischen Modell- und Suchkosten hinweisen
+- Controlling/Finance im Mittelstand, das ein Budget für ein KI-Projekt freigeben soll → Direktnachricht an bestehende Kontakte, die kürzlich nach laufenden Kosten gefragt haben
+- Geschäftsführung, die eine grobe Fehlannahme über KI-Kosten korrigieren will, bevor sie ein Angebot einholt → Beitrag in eigenen Feed, kein aktives Nachfassen nötig
 
 ---
 
 ## Beitrag C · Zahlen
 
-Was kostet ein KI-Assistent für Ihr Firmenwissen? Unsere Preise, offen gelegt:
+Was kostet ein eigener KI-Assistent für Ihr Firmenwissen? Fünf Zahlen, die die Antwort geben.
 
-1. Technische Basis in Ihrer Azure-Umgebung: 4.000 bis 10.000 € einmalig
-2. Jede angebundene Datenquelle: 5.000 bis 8.000 € einmalig
-3. Oberfläche: 0 € Projektkosten, wenn Ihr Team sie mit Copilot Studio baut
-4. Typisches Erstprojekt gesamt: 15.000 bis 25.000 €
-5. Laufend: Verbrauch direkt bei Microsoft, Betreuung optional ab 2.000 € im Monat
+1. Technische Basis (Modellzugang, Wissensbasis, Rechtemodell): 4.000 bis 10.000 € einmalig
+2. Jede angebundene Datenquelle, z. B. Wiki oder Ticketsystem: 5.000 bis 8.000 € einmalig
+3. Oberfläche mit Copilot Studio, vom eigenen Team gebaut: 0 € Projektkosten
+4. Typisches Erstprojekt mit zwei Quellen: 15.000 bis 25.000 € einmalig
+5. Laufend: Verbrauch direkt bei Microsoft Azure, Betreuung optional ab 2.000 € im Monat
 
-Beispiel mit Wiki und Ticketsystem: 21.000 € einmalig.
+Rechenbeispiel mit Wiki und Ticketsystem: 8.000 € Infrastruktur, 6.000 € Pipeline Wiki, 7.000 € Pipeline Ticketsystem. Summe: 21.000 € einmalig.
 
-Alle Preise zzgl. USt. Die Aufschlüsselung mit Grafik steht im Artikel, Link im ersten Kommentar.
+Alle Preise zzgl. Umsatzsteuer.
 
-**Erster Kommentar:** Artikel mit Rechenbeispiel und Erklärung der laufenden Kosten: <Link>
-**Wann:** Donnerstag der dritten Woche, 7:45 Uhr, mit `visual.png` als Bild
-**Für wen:** Alle drei Zielrollen, Format eignet sich zum Speichern und Weiterleiten an die Geschäftsführung
-**Wie erreichen:** Kontakte aus bisherigen Erstgesprächen, die nach Preisen gefragt haben, per Direktnachricht auf den Artikel hinweisen (nicht auf den Beitrag).
+Die ausführliche Rechnung mit Grafik steht im Artikel, Link im ersten Kommentar.
+
+#KünstlicheIntelligenz #Mittelstand #Azure
+
+**Erster Kommentar:** Artikel mit Rechenbeispiel und Erklärung der laufenden Kosten: <Link zum Artikel>
+
+**Wann:** Donnerstag, 15.10.2026, 7:45 Uhr, mit `visual.svg` als Bild
+**Für wen:**
+- Geschäftsführung, die eine Zahl zum Weiterleiten an das eigene Führungsteam sucht → Format eignet sich zum Speichern, kein aktives Nachfassen nötig
+- IT-Leitung, die die Kostenposten intern gegenüber Controlling begründen muss → per Direktnachricht an Kontakte aus bisherigen Erstgesprächen auf den Artikel hinweisen (nicht auf den Beitrag)
+- Kontakte, die in früheren Gesprächen konkret nach Preisen gefragt haben → Direktnachricht mit Verweis auf den Artikel als Nachschlagewerk
 
 ---
 
-## Stilprüfung (Profil `linkedin`)
+## Karussell (optional)
 
-| # | Stelle | Befund | Änderung |
-|---|---|---|---|
-| 1 | A, Einstieg ursprünglich „Ich freue mich, heute etwas Ungewöhnliches zu teilen" | LinkedIn-Floskel | ersetzt durch Kernaussage in Zeile 1 |
-| 2 | B, „Das ist ein echter Gamechanger für Ihr Budget" | Stufe 1 | gestrichen |
-| 3 | C, Pfeil-Emojis vor jeder Zeile | LinkedIn-Muster | nummerierte Liste |
-| 4 | A, Schluss „Was denkt ihr?" | unspezifische Frage, falsche Anrede | spezifische Frage mit „Sie" |
-| 5 | B, Doppelpunkt vor „beim Anbinden" | Doppelpunkt-Einleitung | Ermessen, bleibt als bewusste Pointe |
+Der Artikel enthält einen Kosten-Ablauf (Infrastruktur → Pipeline → laufende Kosten) und einen Vergleich (einmalig vs. laufend). Textvorschlag für 8 Folien:
 
-Erste 210 Zeichen geprüft: A, B und C tragen die Kernaussage vor „…mehr anzeigen".
-Zeichenzahl: A ca. 1.050 · B ca. 1.000 · C ca. 620 (C bewusst kürzer, trägt über das Bild).
+1. Was kostet ein eigener KI-Assistent für Ihr Firmenwissen?
+2. Einmalig: 15.000 bis 25.000 € für ein typisches erstes Projekt.
+3. Baustein 1 – Technische Basis: Modellzugang, Wissensbasis, Rechtemodell. 4.000 bis 10.000 €.
+4. Baustein 2 – Datenquellen: jede Quelle braucht eine eigene Pipeline. 5.000 bis 8.000 € pro Quelle.
+5. Oberfläche: 0 € Projektkosten, wenn Ihr Team sie mit Copilot Studio selbst baut.
+6. Laufend: Sprachmodell nach Verbrauch, Dokumentensuche pro Stunde – auch ohne Nutzung.
+7. Betreuung optional ab 2.000 € im Monat, lässt sich herunterfahren.
+8. Beispiel Wiki + Ticketsystem: 21.000 € einmalig, zzgl. USt. Details im Artikel.
