@@ -42,10 +42,10 @@ Stand: 25.09.2026
 - Ein allgemeingültiger, seriös belegter Umrechnungsfaktor „Dauer je Anzahl Datenquellen" → in keiner der geprüften Quellen (auch nicht bei Microsoft) so beziffert; alle gefundenen Zahlen sind grobe Anbieter-Faustregeln ohne Methodik.
 
 ## Offen für Thomas
-- [OFFEN] Wie lange dauert bei Insight AI typischerweise der technische Teil (Infrastruktur + Anbindung der ersten Datenquelle) bis zum ersten nutzbaren Assistenten – Größenordnung in Wochen?
-- [OFFEN] Wie lange dauerte die Einführung von enGPT bei Softengine konkret, vom Start bis zum produktiven Einsatz?
+- [OFFEN] Wie lange dauert bei Insight AI typischerweise der technische Teil (Infrastruktur + Anbindung der ersten Datenquelle) bis zum ersten nutzbaren Assistenten – Größenordnung in Wochen? (per Firmen-GitHub klärbar)
+- [OFFEN] Wie lange dauerte die Einführung von enGPT bei Softengine konkret, vom Start bis zum produktiven Einsatz? (per Firmen-GitHub klärbar)
 - [OFFEN] Was verzögert Projekte in der Praxis am häufigsten – fehlende Ansprechpartner beim Kunden, unklare Anwendungsfälle, Datenqualität, Freigabeprozesse?
 - [OFFEN] Welche konkreten Vorbereitungen erwartet Insight AI von der Geschäftsführung vor Projektstart (z. B. Benennung eines internen Ansprechpartners, NDA/AVV-Unterzeichnung, Auswahl des ersten Anwendungsfalls)?
-- [OFFEN] Gibt es eine grobe Formel oder Richtwerte, die die Dauer je nach Anzahl der Datenquellen beschreiben?
+- [OFFEN] Gibt es eine grobe Formel oder Richtwerte, die die Dauer je nach Anzahl der Datenquellen beschreiben? (per Firmen-GitHub klärbar)
 - [OFFEN] (neu, aus dieser Recherche-Runde) WebFetch war während der Recherche technisch blockiert (Egress-Proxy verweigerte Zugriff auf alle getesteten Domains). Die als „mittel"/„unsicher" markierten Zeilen basieren auf KI-Suchzusammenfassungen, nicht auf gelesenen Volltexten. Vor der finalen Veröffentlichung sollten insbesondere F1–F3, F7 und F11 noch einmal per Direktzugriff auf die Originalseiten gegengeprüft werden, sobald der Zugriff funktioniert.
 - [OFFEN] (neu) Für F7 (hr-werkstatt.de) und F8 (skill-sprinters.de) wäre hilfreich zu wissen, ob Thomas/Insight AI diese Zahlen aus eigener Projekterfahrung bestätigen oder widerlegen kann – das ist genau der Winkel des Artikels.

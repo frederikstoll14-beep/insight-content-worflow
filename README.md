@@ -94,8 +94,9 @@ auswertung/        metriken.csv + learnings.md
 | Format der Agenten und Skills | [Claude-Code-Doku](https://code.claude.com/docs/en/sub-agents) | `skills:` zum Vorladen, `disable-model-invocation` für Befehle |
 
 ## Nächste Ausbaustufen
-1. **Erstgespräche als Themenquelle.** Transkripte (mit Einverständnis) in `kontext/gespraeche/` ablegen, der Themen-Scout liest sie mit.
-2. **Veröffentlichung.** Anbindung an das CMS der Website, sobald klar ist, wie sie gepflegt wird.
-3. **Search Console und LinkedIn-Statistik** per Connector statt manueller CSV.
-4. **Englische Fassung** über einen zusätzlichen Übersetzungs-Agenten, da die Website zweisprachig ist.
-5. **Selbst auf Azure betreiben** als Referenzprojekt, wenn der Ablauf stabil ist.
+1. **Firmen-GitHub als Quelle.** Lesezugriff auf das GitHub von Insight AI, damit der Rechercheur Fragen an Thomas (Projektdauer, Ablauf, Datenquellen) selbst beantwortet. Regeln stehen in `CLAUDE.md`. Bis dahin bleiben diese Fragen `[OFFEN]` mit dem Zusatz „(per Firmen-GitHub klärbar)".
+2. **Erstgespräche als Themenquelle.** Transkripte (mit Einverständnis) in `kontext/gespraeche/` ablegen, der Themen-Scout liest sie mit.
+3. **Veröffentlichung.** Anbindung an das CMS der Website, sobald klar ist, wie sie gepflegt wird.
+4. **Search Console und LinkedIn-Statistik** per Connector statt manueller CSV.
+5. **Englische Fassung** über einen zusätzlichen Übersetzungs-Agenten, da die Website zweisprachig ist.
+6. **Selbst auf Azure betreiben** als Referenzprojekt, wenn der Ablauf stabil ist.

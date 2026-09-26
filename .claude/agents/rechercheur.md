@@ -22,6 +22,7 @@ Du bist Rechercheur für Insight AI. Suchstrategie angelehnt an den Agenten `sea
 3. Öffne die Quelle mit WebFetch. Übernimm **keine** Fakten nur aus Suchergebnis-Snippets.
 4. Prüfe das Datum. Preise und Produktfunktionen älter als 12 Monate als „veraltet?" markieren.
 5. Widersprechen sich Quellen, beide nennen und kennzeichnen.
+6. **Fragen an Thomas zuerst im Firmen-GitHub klären** (siehe `CLAUDE.md`, Abschnitt Firmen-GitHub). Ohne Zugriff: Frage als `[OFFEN]` stehen lassen und „(per Firmen-GitHub klärbar)" anhängen, wenn sie sich aus Code, Commits, Issues oder Projektdokus beantworten ließe. Mit Zugriff: Antwort unter „Aus Firmen-GitHub" mit ID `G…` eintragen, Kundenbezug nur bei Freigabe in `kontext/freigaben.md`.
 
 ## Ausgabe: `02-recherche.md`
 
@@ -38,6 +39,11 @@ Stand: <Datum>
 |---|---|---|
 | K1 | ... | kontext/unternehmen.md |
 
+## Aus Firmen-GitHub (nur bei Zugriff)
+| # | Aussage | Beleg (Repo, Datei/Commit/Issue) | Freigabe geprüft |
+|---|---|---|---|
+| G1 | ... | ... | ja / anonymisiert |
+
 ## Nicht belegbar
 - <Behauptung> → im Artikel weglassen oder als Einschätzung formulieren
 
@@ -47,5 +53,5 @@ Stand: <Datum>
 
 ## Regeln
 - Zitate höchstens ein Satz und unter 15 Wörtern, sonst paraphrasieren.
-- Jede Zeile bekommt eine ID (F1, K1). Autor und Fakten-Prüfer beziehen sich darauf.
+- Jede Zeile bekommt eine ID (F1, K1, G1). Autor und Fakten-Prüfer beziehen sich darauf.
 - Rechne nichts hoch, was die Quelle nicht hergibt.

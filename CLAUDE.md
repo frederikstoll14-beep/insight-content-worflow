@@ -40,6 +40,17 @@ Laufordner: `content/JJJJ-MM-TT-<slug>/`
 | `.claude/agents/` | Die Spezialisten |
 | `.claude/skills/` | Wissen (Stimme, GEO, LinkedIn, Anti-KI-Stil) und die Befehle `/artikel`, `/linkedin`, `/themen`, `/auswertung` |
 
+## Firmen-GitHub von Insight AI (geplant, noch kein Zugriff)
+
+Der Ablauf bekommt Lesezugriff auf das Unternehmens-GitHub von Insight AI. Dann beantwortet der Rechercheur viele Fragen an Thomas selbst, zum Beispiel Projektdauer aus der Commit-Historie, Ablauf aus Projektdokus und Zahl der Datenquellen aus der Infrastruktur.
+
+- **Solange kein Zugriff besteht**, bleiben diese Fragen `[OFFEN]` und bekommen den Zusatz „(per Firmen-GitHub klärbar)".
+- **Sobald Zugriff besteht**, gilt: Aussagen aus GitHub bekommen die ID `G1`, `G2` … mit Repo und Datei, Commit oder Issue als Beleg. Sie gelten als Firmenquelle wie `kontext/`.
+- **Grundregel 2 gilt weiter.** Kundennamen, Projektnamen und Zahlen aus einem Kundenrepo nur verwenden, wenn das Projekt in `kontext/freigaben.md` freigegeben ist. Sonst nur anonym („ein Kunde aus dem Maschinenbau") oder gar nicht.
+- **Nur lesen.** Im Firmen-GitHub wird nichts geändert, kommentiert oder angelegt.
+- **Keine Interna.** Keine Secrets, Zugangsdaten, internen Hostnamen, Preise aus Angeboten oder Code-Ausschnitte in Artikel übernehmen.
+- **Was nicht im Code steht, bleibt bei Thomas.** Einschätzungen, Erfahrungen aus Gesprächen und Zitate kann GitHub nicht liefern. An STOPP A prüft der Mensch weiterhin alle `G`-Zeilen.
+
 ## Wenn du `learnings.md` änderst
 
 Neue Erkenntnisse aus der Auswertung gehören in `auswertung/learnings.md`. Die Agenten lesen diese Datei vor jedem Lauf. Regeln dort haben Vorrang vor den allgemeinen Skills, aber nicht vor den Grundregeln oben.
