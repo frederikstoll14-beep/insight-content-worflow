@@ -114,3 +114,7 @@ In einem 45-minütigen Erstgespräch klären wir, welcher Anwendungsfall sich al
 - Anbieterangaben: [hr-werkstatt.de](https://www.hr-werkstatt.de/allgemein/wie-lange-dauert-eine-ki-einfuehrung-im-mittelstand-realistisch/), [skill-sprinters.de](https://skill-sprinters.de/), [kigen-it.de](https://kigen-it.de/microsoft-365-copilot-einfuehren-7-schritte-fuer-einen-erfolgreichen-rollout/), [copilotenschule.de](https://copilotenschule.de/wissen/copilot-im-unternehmen-einfuehren-leitfaden), [innogpt.de](https://www.innogpt.de/blog/ki-assistent), [snutig.de](https://www.snutig.de/blogbeitrage/chatbot-entwickeln-lassen-kosten-beispiele/)
 
 <!-- Hinweis für den Fakten-Prüfer: Alle Quellen wurden laut 02-recherche.md nur über Suchzusammenfassungen gelesen, nicht im Volltext. Vor Veröffentlichung F1–F3, F7 und F11 per Direktzugriff prüfen. -->
+
+## Bild
+
+Grafik zeigt: links technischer Aufbau (Dienstleister), rechts Vorbereitung im Unternehmen, unten Hemmnisse laut Bitkom.
