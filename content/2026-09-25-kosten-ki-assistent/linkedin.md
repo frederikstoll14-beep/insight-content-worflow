@@ -10,7 +10,7 @@ Bei der Softengine Gruppe ist unser Assistent enGPT seit 1,5 Jahren produktiv. E
 
 Ein Beispiel wie dieses zeigt, worum es bei den Kosten vor allem geht: um die Datenquellen dahinter, weniger um das Sprachmodell.
 
-Ein typisches erstes Projekt für einen solchen Assistenten kostet einmalig 15.000 bis 25.000 €. Sobald mehr als eine Datenquelle angebunden wird, entfällt der größere Teil davon auf die Daten, nicht auf die technische Basis.
+Ein typisches erstes Projekt für einen solchen Assistenten kostet einmalig 15.000 bis 25.000 €. Sobald mehr als eine Datenquelle angebunden wird, entfällt meist der größere Teil davon auf die Daten, nicht auf die technische Basis.
 
 Jede Quelle, ob Wiki, Ticketsystem oder PDF-Handbücher, braucht eine eigene Pipeline: bereinigen, in Abschnitte teilen, Metadaten ergänzen, täglich aktualisieren. Dafür kalkulieren wir 5.000 bis 8.000 € pro Quelle.
 
@@ -40,7 +40,7 @@ Das Sprachmodell wird bei Azure OpenAI nach Verbrauch abgerechnet, pro verarbeit
 
 Teurer wird es an anderer Stelle. Die Dokumentensuche läuft im üblichen Modell auf reservierter Kapazität und kostet pro Stunde, egal ob jemand fragt oder nicht. Dieser Posten läuft auch am Wochenende weiter und lässt sich nur beenden, indem man den Suchdienst löscht.
 
-Und einmalig fällt der größte Teil dort an, wo es am wenigsten glamourös ist: beim Anbinden und Aufbereiten der eigenen Daten. Ab der zweiten Datenquelle ist das der größere Teil des Budgets, nicht die KI-Infrastruktur.
+Und einmalig fällt der größte Teil dort an, wo es am wenigsten glamourös ist: beim Anbinden und Aufbereiten der eigenen Daten. Ab der zweiten Datenquelle ist das in der Regel der größere Teil des Budgets, nicht die KI-Infrastruktur.
 
 Wer die Kosten eines KI-Assistenten plant, zählt deshalb zuerst die Datenquellen, nicht das Sprachmodell.
 
@@ -65,10 +65,10 @@ Was kostet ein eigener KI-Assistent für Ihr Firmenwissen? Fünf Zahlen, die die
 1. Technische Basis (Modellzugang, Wissensbasis, Rechtemodell): 4.000 bis 10.000 € einmalig
 2. Jede angebundene Datenquelle, z. B. Wiki oder Ticketsystem: 5.000 bis 8.000 € einmalig
 3. Oberfläche mit Copilot Studio, vom eigenen Team gebaut: 0 € Projektkosten
-4. Typisches Erstprojekt mit zwei Quellen: 15.000 bis 25.000 € einmalig
+4. Typisches Erstprojekt: 15.000 bis 25.000 € einmalig
 5. Laufend: Verbrauch direkt bei Microsoft Azure, Betreuung optional ab 2.000 € im Monat
 
-Rechenbeispiel mit Wiki und Ticketsystem: 8.000 € Infrastruktur, 6.000 € Pipeline Wiki, 7.000 € Pipeline Ticketsystem. Summe: 21.000 € einmalig.
+Rechenbeispiel mit angenommenen Werten innerhalb der Spannen, Wiki und Ticketsystem: 8.000 € Infrastruktur, 6.000 € Pipeline Wiki, 7.000 € Pipeline Ticketsystem. Summe: 21.000 € einmalig.
 
 Alle Preise zzgl. Umsatzsteuer.
 
