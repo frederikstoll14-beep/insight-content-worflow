@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch",
+      "Edit(/content/**)",
+      "Edit(/themen/**)",
+      "Edit(/auswertung/**)",
+      "Bash(date *)",
+      "Bash(mkdir -p content/*)",
+      "Bash(python3 *)"
+    ],
+    "deny": [
+      "Edit(/kontext/**)"
+    ]
+  }
+}

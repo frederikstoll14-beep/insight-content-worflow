@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675" font-family="Inter, Arial, sans-serif">
+  <title>Wie lange dauert die Einführung eines KI-Assistenten? Zwei Teile, zwei Verantwortliche.</title>
+  <rect width="1200" height="675" fill="#FFFFFF"/>
+
+  <text x="80" y="60" font-size="38" font-weight="700" fill="#1F2937">Wer macht was bei der Einführung?</text>
+  <text x="80" y="96" font-size="22" fill="#4B5563">Zwei Teile mit unterschiedlicher Dauer und unterschiedlichem Verantwortlichen</text>
+
+  <!-- Linke Spalte: Technischer Aufbau -->
+  <rect x="80" y="125" width="500" height="300" fill="#FFFFFF" stroke="#0F766E" stroke-width="2"/>
+  <rect x="80" y="125" width="500" height="70" fill="#0F766E"/>
+  <text x="104" y="163" font-size="22" font-weight="700" fill="#FFFFFF">Technischer Aufbau</text>
+  <text x="104" y="189" font-size="22" font-weight="700" fill="#FFFFFF">– Dienstleister</text>
+
+  <text x="104" y="244" font-size="20" fill="#0F766E">▸</text>
+  <text x="128" y="244" font-size="20" fill="#1F2937">Azure-Infrastruktur:</text>
+  <text x="128" y="270" font-size="20" fill="#1F2937">Sprachmodell, Suche, Rechte</text>
+  <!-- K8 -->
+  <text x="104" y="304" font-size="20" fill="#0F766E">▸</text>
+  <text x="128" y="304" font-size="20" fill="#1F2937">Datenanbindung erste Quelle</text>
+  <!-- K2 -->
+  <text x="104" y="338" font-size="20" fill="#0F766E">▸</text>
+  <text x="128" y="338" font-size="20" fill="#1F2937">NDA und AVV</text>
+  <text x="128" y="364" font-size="20" fill="#1F2937">vor dem ersten Zugriff</text>
+  <!-- K4 -->
+
+  <!-- Rechte Spalte: Vorbereitung und Nutzung -->
+  <rect x="620" y="125" width="500" height="300" fill="#FFFFFF" stroke="#9CA3AF" stroke-width="2"/>
+  <rect x="620" y="125" width="500" height="70" fill="#E5E7EB"/>
+  <text x="644" y="163" font-size="22" font-weight="700" fill="#1F2937">Vorbereitung &amp; Nutzung</text>
+  <text x="644" y="189" font-size="22" font-weight="700" fill="#1F2937">– Unternehmen</text>
+
+  <text x="644" y="244" font-size="20" fill="#0F766E">▸</text>
+  <text x="668" y="244" font-size="20" fill="#1F2937">Ersten Anwendungsfall festlegen</text>
+  <text x="644" y="278" font-size="20" fill="#0F766E">▸</text>
+  <text x="668" y="278" font-size="20" fill="#1F2937">Verantwortliche Person je Quelle</text>
+  <text x="644" y="312" font-size="20" fill="#0F766E">▸</text>
+  <text x="668" y="312" font-size="20" fill="#1F2937">Pilotgruppe mit</text>
+  <text x="668" y="338" font-size="20" fill="#1F2937">festen Rückmeldezeiten</text>
+  <text x="644" y="372" font-size="20" fill="#0F766E">▸</text>
+  <text x="668" y="372" font-size="20" fill="#1F2937">Schulung je Fachbereich</text>
+  <!-- K6 -->
+
+  <!-- Zusammenführung -->
+  <path d="M330 425 V445 H870 V425" fill="none" stroke="#0F766E" stroke-width="2"/>
+  <path d="M600 445 V465" stroke="#0F766E" stroke-width="2"/>
+  <polygon points="600,473 592,459 608,459" fill="#0F766E"/>
+  <text x="600" y="500" font-size="20" font-weight="700" fill="#0F766E" text-anchor="middle">Beide zusammen bestimmen, wie schnell der Assistent genutzt wird</text>
+
+  <!-- Stat-Panel -->
+  <text x="80" y="545" font-size="22" font-weight="700" fill="#1F2937">Häufigste Hemmnisse laut Bitkom 2026</text>
+  <!-- F2 -->
+
+  <text x="80" y="598" font-size="40" font-weight="800" fill="#0F766E">53 %</text>
+  <text x="80" y="622" font-size="18" fill="#374151">Rechtsunsicherheit</text>
+
+  <text x="420" y="598" font-size="40" font-weight="800" fill="#0F766E">53 %</text>
+  <text x="420" y="622" font-size="18" fill="#374151">Fehlendes Know-how</text>
+
+  <text x="760" y="598" font-size="40" font-weight="800" fill="#0F766E">51 %</text>
+  <text x="760" y="622" font-size="18" fill="#374151">Personalmangel</text>
+
+  <text x="80" y="650" font-size="18" fill="#6B7280">Bitkom 2026, Unternehmen, die KI bereits nutzen · Stand 09/2026</text>
+  <text x="1120" y="650" font-size="18" fill="#6B7280" text-anchor="end">insightai.co</text>
+</svg>

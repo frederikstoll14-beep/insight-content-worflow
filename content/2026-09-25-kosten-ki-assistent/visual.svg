@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675" font-family="Inter, Arial, sans-serif">
+  <title>Rechenbeispiel: Was kostet ein KI-Assistent für Firmenwissen?</title>
+  <rect width="1200" height="675" fill="#FFFFFF"/>
+
+  <text x="80" y="92" font-size="38" font-weight="700" fill="#1F2937">Was kostet ein KI-Assistent für Firmenwissen?</text>
+  <text x="80" y="136" font-size="24" fill="#4B5563">Rechenbeispiel: Support-Assistent mit Wiki und Ticketsystem</text>
+
+  <!-- Einmalig -->
+  <text x="80" y="210" font-size="24" font-weight="700" fill="#1F2937">Einmalig</text>
+  <text x="1120" y="210" font-size="30" font-weight="700" fill="#0F766E" text-anchor="end">21.000 €</text>
+
+  <rect x="80" y="230" width="392" height="96" fill="#E5E7EB"/>
+  <rect x="476" y="230" width="293" height="96" fill="#0F766E"/>
+  <rect x="773" y="230" width="347" height="96" fill="#0F766E" fill-opacity="0.75"/>
+
+  <text x="100" y="272" font-size="24" font-weight="700" fill="#1F2937">Infrastruktur</text>
+  <text x="100" y="306" font-size="24" fill="#1F2937">8.000 €</text>
+  <text x="496" y="272" font-size="24" font-weight="700" fill="#FFFFFF">Pipeline Wiki</text>
+  <text x="496" y="306" font-size="24" fill="#FFFFFF">6.000 €</text>
+  <text x="793" y="272" font-size="24" font-weight="700" fill="#FFFFFF">Pipeline Tickets</text>
+  <text x="793" y="306" font-size="24" fill="#FFFFFF">7.000 €</text>
+
+  <path d="M476 346 H1120" stroke="#0F766E" stroke-width="3"/>
+  <path d="M476 338 V354 M1120 338 V354" stroke="#0F766E" stroke-width="3"/>
+  <text x="798" y="384" font-size="22" fill="#0F766E" text-anchor="middle">Daten anbinden: 13.000 €</text>
+
+  <!-- Monatlich -->
+  <text x="80" y="450" font-size="24" font-weight="700" fill="#1F2937">Monatlich</text>
+
+  <rect x="80" y="470" width="620" height="118" rx="6" fill="none" stroke="#1F2937" stroke-width="2"/>
+  <text x="104" y="508" font-size="24" font-weight="700" fill="#1F2937">Azure-Verbrauch, direkt an Microsoft</text>
+  <text x="104" y="542" font-size="22" fill="#374151">Sprachmodell: nach Tokens</text>
+  <text x="104" y="572" font-size="22" fill="#374151">Suche: pro Stunde, auch ungenutzt</text>
+
+  <rect x="724" y="470" width="396" height="118" rx="6" fill="none" stroke="#9CA3AF" stroke-width="2" stroke-dasharray="8 6"/>
+  <text x="748" y="508" font-size="24" font-weight="700" fill="#1F2937">Betreuung, optional</text>
+  <text x="748" y="542" font-size="22" fill="#374151">ab 2.000 € im Monat</text>
+  <text x="748" y="572" font-size="22" fill="#374151">pausierbar</text>
+
+  <text x="80" y="636" font-size="18" fill="#6B7280">Annahmen innerhalb der veröffentlichten Preisspannen · alle Preise zzgl. USt. · Stand 09/2026</text>
+  <text x="1120" y="636" font-size="18" fill="#6B7280" text-anchor="end">insightai.co</text>
+</svg>

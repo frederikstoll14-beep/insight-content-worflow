@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350" font-family="Inter, Arial, sans-serif">
+  <rect width="1080" height="1350" fill="#FFFFFF"/>
+
+  <!-- Kopfzeile -->
+  <text x="60" y="90" font-size="28" font-weight="700" fill="#0F766E">Insight AI</text>
+  <text x="1020" y="90" font-size="24" fill="#6B7280" text-anchor="end">7 / 8</text>
+  <path d="M60 130 H1020" stroke="#E5E7EB" stroke-width="2"/>
+
+  <!-- Fusszeile -->
+  <path d="M60 1260 H1020" stroke="#E5E7EB" stroke-width="2"/>
+  <text x="60" y="1306" font-size="22" fill="#6B7280">Betreuung</text>
+  <text x="1020" y="1306" font-size="22" fill="#6B7280" text-anchor="end">insightai.co</text>
+
+  <text x="60" y="300" font-size="34" font-weight="700" fill="#1F2937">Betreuung, optional</text>
+  <rect x="60" y="360" width="140" height="8" fill="#0F766E"/>
+  <text x="60" y="560" font-size="80" font-weight="700" fill="#0F766E">ab 2.000 &#8364;</text>
+  <text x="60" y="620" font-size="34" fill="#1F2937">im Monat</text>
+<text x="60" y="700" font-size="34" font-weight="400" fill="#1F2937" text-anchor="start">Lässt sich herunterfahren.</text>
+</svg>
